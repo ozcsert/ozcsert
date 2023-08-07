@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ozcan 
-- 👀 I’m interested in Web application development.
-- 🌱 I’m currently learning the MERN stack. 
+
+- 🌱 I’m a full stack Javascript Developer speciliasing in React & Node.js
 
 
 
