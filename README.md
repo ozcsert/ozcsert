@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ozcan
 
-- 🌱 I’m a full stack Javascript Developer speciliazing in React & Node.js
+- 🌱 I’m a full stack Javascript Developer speciliazing in Next, Typescript & Node.js
 
--  Currently developing Journ-io, a note-taking application that prioritizes design fluidity.
+-  Currently developing and leading Front-End projects in Archi's Academy.
 
 
 
