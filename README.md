@@ -2,7 +2,7 @@
 
 - 🌱 I’m a full stack Javascript Developer speciliazing in Next, Typescript & Node.js
 
--  Currently developing and leading Front-End projects in Archi's Academy.
+-  Currently leading Front-End projects in Archi's Academy.
 
 
 
